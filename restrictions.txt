@@ -1,0 +1,63 @@
+a d e h k l o p t z B C E F Q S V Z 1 2 3 9 |
+a c e i l u v I J L M 3 X Y |
+a b d f i q r s z K x |
+i p q x A C E F J K M |
+c d e f h q r t x y A B C D E F J T | 
+f g h i s A B C D E Y Z |
+b g h i k l m E F J K M N O |
+b c e r s t u I J R S T |
+d e f g L M N O U V W X Y 1 2 |
+h j n o p r x y v A B H I O R V 6 |
+a b c q r s v w x C D E 3 4 5 |
+f l m n B W Z 5 6 9 |
+g p r s t v B C V 4 5 6 |
+h p q r s D E K L S T U Y 6 7 |
+c d f j C D E L M R S T W X Y 7 |
+d e k m z A D L M S T 2 3 4 8 |
+d e w x B C P Q T U V W 3 7 |
+g h i k l m y C V W 1 2 9 |
+i j k l m T U 3 4 |
+b c d k i y B L M X 4 |
+a b c n o s t u w x A B C N O S T U W |
+c h m o p q u v w B G O S U V X Y 1 |
+d j k l n u w B M O P S X Y Z 1 2 5 8 |
+e j k l m o p t w y A B C D N P R S U V W X Y 3 9 |
+a e g h j o q r s t v A E G J M N P Y 3 4 8 9 |
+e j k m r w B C L P R S 1 2 6 7 8 |
+a c e i j l m n u C D E F G J M O P Q S T W 3 7 9 |
+b j m q r s t u z D I K L M Q T U Y 1 5 |
+h p r u H K L N Q R S V Z 3 4 8 9  |
+b c j k n q s t w y B F H I K N O P Z 6 8 9 |
+d g h j l m s u w A B C I J K M O V Y 2 |
+a b d l n o s v w E G I J M T U Y Z 1 3 6 7 |
+a e i j l o q s t x y D H L W Y 1 3 4 7 8 |
+a b e f h k o t v x z G K L M Q T W X 3 4 8 |
+a e g j k l m o p u w B E F G I Q T 1 4 6 8 9 |
+a d e g j q t v w y D E F J M O P W X Z 1 9 |
+a b f g k l m t x z C D F G K L M Q Z 2 4 5 7 9 |
+b f h k m o r t v y B C H K Q R T 1 2 5 7 8 9 |
+b c g h k o t w x y A B F H J K T V X Y 2 5 9 |
+a c d g i j k m n o q w x y C D E I J M S U Z 4 |
+b c g l s y A B D I J M O S U W Y 1 2 7 |
+d e h m s v x y z A D E G I M R T X 1 2 5 |
+a c j k l o s z C E H I M N T U V W Z 1 4 8 |
+b g l p s u v z B C F G H M N P T Z 1 3 5 7 |
+a c e h i j k l s z A I L Q T U X 1 3 5 6 7 8 9 |
+a e g p q r v w C I K S T U W Y 1 3 8 |
+a b d e f h k l o p t x y A D K M V W 1 3 6 |
+c j n o r t A D E F G M Q R T Y 1 6 7 9 |
+c i j l o r u v w x y F K M P U Y 1 4 7 |
+c f h i k m n u v w A F I M Q R T U 1 5 8 9 |
+c e g j m n p q s t w z E L Q V W Y Z 1 2 3 5 |
+d e l m n p r u B D E F I K L N O P U X 2 |
+a e g j k m z B C E H I L R T V X Y 4 8 |
+h i l m p t u v x C F L N O R U Z 1 2 3 4 7 9 |
+t a b c f h j k t F I M P Q R U V W Y 1 6 9 |
+b c d g i k l u G J N Q R S V W X Z 2 7 9 |
+c e f k m n u x z D G J K N O R X Y 3 6 7 8 |
+e n r u w x y A B J O Q R S V W Z 1 2 6 |
+y b c e g i j k l x z A B E F G I Q S W |
+H b e j l s u v w y B C G H Q X 2 3 5 6 1 |
+b d e  g j o q v w z E J M P Q R S T U W X Y 1 5 6 8 9 |
+d g i o p u v w y A C D E F H J L N P Q R S T U W 8 |
+7 6 4 1 X W V R Q O K I G D B z x w u s k h g c |
