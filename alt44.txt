@@ -1,0 +1,44 @@
+a c e j l p s u v x C E I J L M Q X Y       
+a b d f i k m q r s x z K U            
+i p q x A C E F H J K M P R W X Y         
+c d e f i q r t x y D G K O T W          
+f g h i s y A B C D E J L N Q S Y Z        
+b e g h i k l m o A E F H J K M N O R U V Z       
+b c e h n p r s t u z C E G I J N R S T         
+d e f g i o x z B D E J L M N O Q U V W X Y       
+a c e h j k n o p r v x y A B E H I L O R S U V Z    
+a b c n q r s v w x C D E L N Q Y         
+f l m n r w B K M O Q R W Z            
+c g p r s t v w A B C I V Y            
+h p q r s u D E G I K L S T U W Y         
+a c d f g j k s u x y A C D E L M R S T W X Y      
+a d e i k m z A D G J L M S T Y          
+d e h l o q r s w x B C H P Q T U V W       
+a b e f g h i k l m n p y C F J O V W       
+c i j k l m r v z C E O Q R T U Y         
+b c d f j k m r w y z B J L M U X         
+a b c j n o s t u w x A B C D N O S T U W        
+c h m o p q u v w y B G O S U V X Y        
+a d j k l n r u w B F I J M O P S X Y Z         
+e j k l m o p t w y A B C N P R S U V W Z        
+a e g h j o q r s t v A E G J M N P Y       
+e j k m r w B C L P R S              
+c e i j l m n u C D E F G J M O P Q S T W        
+b j m q r s t u z D I K L M Q T U Y        
+h p r u H K L N Q R S V Z             
+b c j k n q s t w y B F H I K N O P Z       
+d g h j l m s u w A B C I J K M O V Y       
+a b d l n o s v w E G I J M T U Y Z        
+a e i j l o q s t x y D H L W Y          
+a b e f h k o t v x z G K L M Q T W X       
+a e g j k l m o p u w B E F G I Q T        
+a d e g j q t v w y D E F J M O P W X Z         
+a b f g k l m t x z C D F G K L M Q Z       
+b f h k m o r t v y B C H K Q R T         
+b c g h k o t w x y A B F H J K T V X Y         
+a c d g i j k m n o q w x y C D E I J M S U Z      
+b c g l s y A B D I J M O S U W Y         
+d e h m s v x y z A D E G I M R T X        
+a c j k l o s z C E H I M N T U V W Z       
+b g l p s u v z B C F G H M N P T Z        
+a c e h i j k l s z A I L Q T U X
