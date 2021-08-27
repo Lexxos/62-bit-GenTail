@@ -7,8 +7,8 @@
 using namespace std;
 
 //program will generate the next GLIMIT codes. If LIMIT=-1, then it is limitless
-const int CODE_SIZE=64, N_THREADS = 62, CONCURRENT_THREADS = 16; //N_THREADS is the total number of threads required, CONCURRENT_THREADS are usable threads
-int MIN_LU = 50, MAX_LU = 58, CONSECUTIVE_LU=10; //MAX L/U in total, MIN L/U in total and consecutive L/U in a row
+const int CODE_SIZE=44, N_THREADS = 62, CONCURRENT_THREADS = 16; //N_THREADS is the total number of threads required, CONCURRENT_THREADS are usable threads
+int MIN_LU = 35, MAX_LU = 39, CONSECUTIVE_LU=12; //MAX L/U in total, MIN L/U in total and consecutive L/U in a row
 long long GLIMIT=100000000000;
 
 
